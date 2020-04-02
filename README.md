@@ -1,4 +1,4 @@
-# CodePractices
+# Code Practices
 
 
 This repository is mainly about the coding tests.
